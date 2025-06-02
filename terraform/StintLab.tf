@@ -22,12 +22,6 @@ resource "github_repository" "StintLab" {
     }
 }
 
-##################################################################
-##########################              ##########################
-##########################     MAIN     ##########################
-##########################              ##########################
-##################################################################
-
 resource "github_branch" "main" {
   repository = github_repository.StintLab.name
   branch     = "main"
@@ -66,7 +60,7 @@ resource "github_repository_ruleset" "mainProtection" {
     creation = true
     update   = true
     deletion = true
-    required_signatures = true
+    required_signatures = false
 
     pull_request {
       dismiss_stale_reviews_on_push = true
