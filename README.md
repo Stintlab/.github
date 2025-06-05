@@ -1,1 +1,1 @@
-# Setup Repository to manage the StintLab organization
+## Repository to manage the public appreance ofthe StintLab organization
