@@ -19,7 +19,7 @@ Our long-term vision is to provide a **SaaS solution**, while also offering the 
 
 ## 🙌 Join the Journey
 
-StintLab is still in its early phases, and there's lots of room to grow.  
+StintLab is still in its early stages, and there's lots of room to grow.  
 Whether you're a developer, tester, strategist, or just someone with big ideas, we’d love to have you with us.
 
 👥 [Hop into our Discord](https://discord.gg/4wkeZZSwKT) to chat, follow our progress, or get to know the team — or feel free to interact directly here on GitHub by watching, starring, opening issues, or contributing to the code.
