@@ -8,8 +8,8 @@ In fast-paced racing environments, knowing how your strategy evolves—and how t
 
 We're currently building a modular web-based platform consisting of:
 
-- **StintLab** — the frontend application and user interface
-- **Centrifuge** — the backend service that powers our logic and data handling
+- [**StintLab**](https://github.com/Stintlab/StintLab) — the frontend application and user interface
+- [**Centrifuge**](https://github.com/Stintlab/Centrifuge) — the backend service that powers our logic and data handling
 
 These tools are being developed with modern tech stacks:
 - **Frontend**: Angular, PrimeNG, RxJS  
